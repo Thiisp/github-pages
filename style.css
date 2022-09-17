@@ -4,11 +4,11 @@ body {
     background-color: black;
 }
 
-.titulo h1 {
+.titulo {
     text-align: center;
 }
 
-.texto p {
+.texto {
     text-align: start;
     color: white;
     font-size: medium;
