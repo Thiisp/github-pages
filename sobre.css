@@ -51,7 +51,15 @@ nav a:hover {
     text-decoration: none;
     text-shadow: black 2px 2px;
     font-size: 32px;
-    margin-top: 30px;
-    margin-bottom: 50px;
-    text-align: center;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
+
+.texto a {
+    color: white;
+    font-size: 18px;
+    text-shadow: black 2px 2px;
+    margin-left: 30px;
 }
