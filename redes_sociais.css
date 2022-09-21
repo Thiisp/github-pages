@@ -51,8 +51,9 @@ nav a:hover {
     text-decoration: none;
     text-shadow: black 2px 2px;
     font-size: 32px;
-    margin-left: 200px;
     margin-top: 30px;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
 .instagram {
@@ -60,8 +61,8 @@ nav a:hover {
     text-decoration: none;
     text-shadow: black 2px 2px;
     font-size: 20px;
-    margin-top: 12px;
-    margin-left: 5px;
+    margin-top: 15px;
+    text-align: center;
 }
 
 .whatsapp {
@@ -69,6 +70,6 @@ nav a:hover {
     text-decoration: none;
     text-shadow: black 2px 2px;
     font-size: 20px;
-    margin-top: 12px;
-    margin-left: 5px;
+    text-align: center;
+    margin-top: 15px;
 }
