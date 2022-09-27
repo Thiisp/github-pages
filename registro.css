@@ -46,20 +46,19 @@ nav a:hover {
     margin-left: 32px;
 }
 
+.atencao {
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
 .titulo {
     color: white;
     text-decoration: none;
     text-shadow: black 2px 2px;
     text-align: center;
     font-size: 22px;
-    margin-top: 50px;
-}
-
-.texto {
-    color: white;
-    text-align: center;
-    text-shadow: black 2px 2px;
-    font-size: 25px;
     margin-top: 50px;
 }
 
