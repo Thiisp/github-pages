@@ -1,6 +1,9 @@
 body {
-    background-color: rgb(32, 31, 31);
     font-family: Arial, Helvetica, sans-serif;
+    background-image: url("redes-sociais.jpg");
+    background-position: top;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 
 * {
@@ -71,7 +74,7 @@ nav a:hover {
 }
 
 .redes_itens a:hover {
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 .rodape {
