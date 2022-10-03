@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("wallpaper_sobre.png");
+    background-color: rgb(32, 31, 31);
     background-position: top;
     background-position: 0% -10%;
     background-size: 100%;
