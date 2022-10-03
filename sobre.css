@@ -1,11 +1,10 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-image: url("wallpaper_sobre.png");
-    background-color: rgb(32, 31, 31);
     background-position: top;
     background-position: 0% -10%;
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: inherit;
 }
 
 * {
@@ -65,7 +64,7 @@ nav a:hover {
 .texto a {
     color: white;
     font-size: 18px;
-    text-shadow: black 2px 2px;
+    text-shadow: black 2px 2px 2px;
     margin-left: 30px;
 }
 

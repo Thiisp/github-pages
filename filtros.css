@@ -50,7 +50,7 @@ nav a:hover {
     color: white;
     font-size: 22px;
     letter-spacing: 2px;
-    text-shadow: black 2px 2px;
+    text-shadow: black 2px 2px 2px;
     text-align: center;
     margin-top: 50px;
 }
