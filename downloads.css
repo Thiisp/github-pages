@@ -55,12 +55,21 @@ nav a:hover {
     margin-top: 50px;
 }
 
-.texto {
+.insta_ios {
     color: white;
     text-shadow: black 2px 2px;
     font-size: 20px;
     margin-top: 5%;
     margin-left: 2%;
+}
+
+.insta_ios-link {
+    color: aqua;
+    text-decoration: none;
+}
+
+.insta_ios-link:hover{
+    opacity: 0.7;
 }
 
 .rodape {
