@@ -61,10 +61,18 @@ nav a:hover {
     margin-left: 30px;
 }
 
-.texto a {
+.texto {
     color: white;
     font-size: 18px;
     text-shadow: black 2px 2px 2px;
+    margin-left: 30px;
+}
+
+.texto2 {
+    color: white;
+    font-size: 18px;
+    text-shadow: black 2px 2px 2px;
+    margin-top: 0.2%;
     margin-left: 30px;
 }
 
