@@ -1,7 +1,13 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("hackerman.jpg");
     background-position: top;
+    background: linear-gradient(
+    90deg,
+  rgba(2, 0, 36, 1) 0%,
+  rgba(9, 9, 121, 1) 35%,
+  rgb(57, 10, 226) 100%
+);
+
     background-size: 100%;
     background-repeat: inherit;
 }
