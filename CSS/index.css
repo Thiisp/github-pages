@@ -31,7 +31,6 @@ nav {
     font-size: 20px;
 }
 
-
 nav a {
     color: #fff;
     text-decoration: none;
@@ -66,6 +65,14 @@ nav a:hover {
     text-shadow: black 2px 2px;
     font-size: 25px;
     margin-top: 50px;
+}
+
+.visitas {
+    color: white;
+    font-size: 25px;
+    text-shadow: black 2px 2px 2px;
+    margin-left: 2.5%;
+    margin-top: 190px;
 }
 
 .rodape {
