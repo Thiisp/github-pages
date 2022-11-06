@@ -56,10 +56,11 @@ nav a:hover {
 
 .instagram {
     width: 75%;
-    height: 485px;
+    height: 600px;
     background: rgb(54, 54, 54);
     margin: 0 auto;
     margin-top: 4%;
+    margin-bottom: 4%;
     border-radius: 15px;
 }
 
