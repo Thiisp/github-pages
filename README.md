@@ -1,4 +1,10 @@
-<h1> Seja Muito Bem Vindo! 🥷🏻 </h1>
+
+<br>
+<h1> Seja muito bem vindo ao meu repositório! 🥷🏻 </h1>
+<a> Aqui está todo o meu código ahhahaha, copia nãoo!! </a>
+<br>
+<br>
+<h2> Sobre mim </h2>
 <a> Nome: Thiago </a>
 <br>
 <a> Idade: 18 Anos </a>
@@ -9,9 +15,7 @@
 <br>
 <a>Linguagem Favorita: Python </a>
 <br>
-<br>
-<h2> Sobre mim </h2>
-<a> Olá, meu nome é Thiago, tenho 18 anos e amo codar. Atualmente minha linguagem favorita é Python. Gosto de desenvolver Automações e Bots! </a>
+<a> Amo Automações e Bots 🤖 </a>
 <br>
 <br>
 <h2> Redes Sociais </h2>
