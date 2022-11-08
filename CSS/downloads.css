@@ -74,7 +74,7 @@ nav a:hover {
     text-decoration: none;
 }
 
-.insta_ios-link:hover{
+.insta_ios-link:hover {
     opacity: 0.7;
 }
 
@@ -91,9 +91,44 @@ nav a:hover {
     text-decoration: none;
 }
 
-.twitter_ios-link:hover{
+.twitter_ios-link:hover {
     opacity: 0.7;
 }
+
+.whatsapp_gb {
+    color: white;
+    text-shadow: black 2px 2px;
+    font-size: 20px;
+    margin-top: 1%;
+    margin-left: 2.5%;
+}
+
+.whatsapp_gb-link {
+    color: aqua;
+    text-decoration: none;
+}
+
+.whatsapp_gb-link:hover {
+    opacity: 0.7;
+}
+
+.whatsapp_gb_business {
+    color: white;
+    text-shadow: black 2px 2px;
+    font-size: 20px;
+    margin-top: 1%;
+    margin-left: 2.5%;
+}
+
+.whatsapp_gb_business-link {
+    color: aqua;
+    text-decoration: none;
+}
+
+.whatsapp_gb_business-link:hover {
+    opacity: 0.7;
+}
+
 
 .rodape {
     bottom: 0;
