@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(
+    90deg,
+  rgb(22, 22, 22) 0%,
+  rgb(32, 32, 32) 50%,
+  rgb(48, 46, 46) 100%
+);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: black;
+    height: 8vh;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    opacity: 0.7;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-list li {
+    letter-spacing: 2px;
+    margin-left: 32px;
+}
+
+.titulo {
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+    text-shadow: black 2px 2px 2px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.texto {
+    color: white;
+    font-size: 30px;
+    text-shadow: black 2px 2px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.print_filtro {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.texto2 {
+    color: white;
+    font-size: 22px;
+    text-shadow: black 2px 2px;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+.fim {
+    height: 3.5vh;
+    text-align: center;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+}
+
+.fim a {
+    color: white;
+    text-decoration: none;
+    text-shadow: black 2px 2px;
+    font-size: 22px;
+}
+
+.fim_link a:hover {
+    opacity: 0.7;
+}
